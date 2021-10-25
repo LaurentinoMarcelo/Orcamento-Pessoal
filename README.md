@@ -1,7 +1,7 @@
 # Orçamento Pessoal
 ## Aplicação para orçamento pessoal utilizando html, css e javaScript
 <h1 align="center">
-  <img title="Orçamento Pessoal" src="imagens/logo.png" />
+  <img title="Orçamento Pessoal" src="logo.png"/>
 </h1>
 
 <p align="center">
@@ -32,22 +32,13 @@ Esse projeto foi desenvolvido para o estudo de implementação de conceitos bás
   - Também existe um campo para a descrição onde pode armazenar um texto digitado pelo usuário;
   - E por ultimo o campo valor referende a despesa.
   
-  <img title="registroDespesa" src="imagens/tela_selecao_dificuldade.png"/>
-
-  Página seleção de dificuldade:
+  <img title="registro Despesa" src="registroDespesa.png"/>
   
-  Nesta página é possivel realizar a seleção da dificuldade do game.
+  <h3> Ná página de consulta de despesa:</h3>
   
-  <h3>Seleção Dificuldade</h3>
-  <img title="Seleção Dificuldade" src="imagens/tela_selecao_dificuldade.png" width="700" height="500"/>
+  -Similar com a página de registro, a página de consulta de despesas apresenta a possibilidade de listar filtrar e excluir despesas salvas no navegador através do local storage.
   
-  <h3>Hora de jogar</h3>
-  
-  -E como o jogo funciona, basicamente durante um periodo de 10 segundo o jogador terá que matar todas os mosquitos que apareceram na tela de forma randômica alterando
-  também não só a posição do mosquito mas também o tamanho do mesmo. Caso não consiga ele perderá seus pontos de vidas representado por 3 corações no canto inferior da tela.
-  Caso ele sobreviva os tempo de 10 segundo mantendo seus pontos de vida o jogador vencerá.
-  
-  <img title="Seleção Dificuldade" src="gif/jogando.gif" width="700" height="500"/>
+  <img title="consulta Despesa" src="consultaDespesa.png"/>
   ---
 
 ## 🎨Layout
